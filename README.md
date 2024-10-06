@@ -1,6 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+### Título 3 (ou h3)
+[Vou meter um link  aqui](www.google.com)
+
+Texto de apresentação chikito khan
+
+Pra rodar o projeto:
+
+```
+npm start
+```
+
 **kobainr/kobainr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
