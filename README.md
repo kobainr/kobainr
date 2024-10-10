@@ -1,7 +1,7 @@
-# Hi there 👋
+# God bless creativity 👋
 
 ### Título 3 (ou h3)
-[Vou meter um link  aqui](www.google.com)
+[KOBAIN R ](https://youtube.com/@kobainr_)
 
 Texto de apresentação chikito khan
 
